@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{AC71B303-D1F4-42F8-9A0C-F3985BCAE46B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternTest", "DesignPatternTest\DesignPatternTest.csproj", "{3D20F9A6-EA9C-49FB-8E63-D6D55430B9D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{AC71B303-D1F4-42F8-9A0C-F3985BCAE46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC71B303-D1F4-42F8-9A0C-F3985BCAE46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC71B303-D1F4-42F8-9A0C-F3985BCAE46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D20F9A6-EA9C-49FB-8E63-D6D55430B9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D20F9A6-EA9C-49FB-8E63-D6D55430B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D20F9A6-EA9C-49FB-8E63-D6D55430B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D20F9A6-EA9C-49FB-8E63-D6D55430B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
