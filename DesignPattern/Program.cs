@@ -1,4 +1,5 @@
 ﻿using System;
+using DesignPattern.Decorator;
 
 namespace DesignPattern
 {
@@ -6,7 +7,7 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+			
         }
     }
 }
