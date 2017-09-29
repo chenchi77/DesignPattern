@@ -4,6 +4,8 @@
 ## 策略模式 Strategy Pattern
 ` 策略模式是一種行為模式，關注的是行為的封裝
 ## 裝飾模式 Decorator Pattern
-` 為既有功能下增加新功能，更加靈活的運用
+```
+為既有功能下增加新功能，更加靈活的運用
 ## 代理模式 Proxy Pattern
-``` dd
+```
+fefe
