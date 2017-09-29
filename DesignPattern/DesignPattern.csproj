@@ -7,8 +7,8 @@
 
   <ItemGroup>
     <Folder Include="SimpleFactory\" />
-    <Folder Include="FactoryMethod\" />
     <Folder Include="Strategy\" />
     <Folder Include="Decorator\" />
+    <Folder Include="Proxy\" />
   </ItemGroup>
 </Project>
